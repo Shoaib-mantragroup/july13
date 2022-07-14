@@ -20,6 +20,6 @@ head -5 code.txt
 echo "to print last 5 lines using tail command"
 tail -5 code.txt
 echo "to check numbers of lines in file using wc command"
-wc-l | code.txt
+wc-l code.txt
 echo "redirection of output to another file"
-wc-l | code.txt > code3.txt
+wc-l code.txt > code3.txt
