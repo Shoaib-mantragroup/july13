@@ -22,4 +22,4 @@ tail -5 code.txt
 echo "to check numbers of lines in file using wc command"
 wc-l code.txt
 echo "redirection of output to another file"
-echo tail code.txt>code3.txt
+tail -5 code.txt > code3.txt
