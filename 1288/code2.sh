@@ -28,3 +28,4 @@ do
    i=$(($i+1))
    fi
 done
+## combination of for loop, while loop, until, if condition are done here
